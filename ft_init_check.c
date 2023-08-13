@@ -52,8 +52,8 @@ void	ft_check_param(int i, int j, int k)
 
 void	ft_array_init(void)
 {
-	int	tab_config[4][4];
-	char *argv[];
+	int		tab_config[4][4];
+	char	*argv[];
 
 	tab_config[4][4] = {0};
 	tab_config[j][k] = argv[1][i];
